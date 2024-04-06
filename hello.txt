@@ -1,5 +1,7 @@
 hello git!!! 11111
 hello git!!! 222
 hello git!!! 66666
+<<<<<<< HEAD
 hello git!!! master 冲突测试
-hello git!!!
+hello git!!! hot-fix 冲突测试1
+>>>>>>> hot-fix
